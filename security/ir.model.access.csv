@@ -1,0 +1,11 @@
+id,name,model_id/id,group_id/id,perm_read,perm_write,perm_create,perm_unlink
+access_gender,acc_gender,model_gender,base.group_user,1,1,1,1
+access_id_type,acc_id_type,model_id_type,base.group_user,1,1,1,1
+access_work_type,acc_work_type,model_work_type,base.group_user,1,1,1,1
+access_know_us,acc_know_us,model_know_us,base.group_user,1,1,1,1
+access_student_status,acc_student_status,model_student_status,base.group_user,1,1,1,1
+access_discount_type,acc_discount_type,model_discount_type,base.group_user,1,1,1,1
+access_discounts,acc_discounts,model_discounts,base.group_user,1,1,1,1
+access_schools,acc_schools,model_schools,base.group_user,1,1,1,1
+access_guardians,acc_guardians,model_guardians,base.group_user,1,1,1,1
+access_students,acc_students,model_students,base.group_user,1,1,1,1
